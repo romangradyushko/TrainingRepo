@@ -1,2 +1,2 @@
 some text
-commit 2
+commit nmb2
